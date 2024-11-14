@@ -8,7 +8,7 @@ The project is built using:
 - **SQL Server Analysis Services (SSAS)** for building and managing multidimensional and tabular data models.
 - **SSAS Cubes** to enable fast data retrieval and storage, facilitating efficient querying and multidimensional analysis of large shipping data sets.
 
-## Installation and Usage
+## Cloning
 To install and use KramseSSAS:
 
 1. Clone the repository:
@@ -19,7 +19,6 @@ To install and use KramseSSAS:
    ```sh
    cd KramseSSAS
    ```
-3. Configure your SQL Server environment (SQL Server 2016+ recommended) and deploy the SSAS project by following the provided deployment scripts.
 
 ## Features
 - **Multidimensional and Tabular Models**: Supports both multidimensional (OLAP) and tabular models for flexibility in data analysis.
