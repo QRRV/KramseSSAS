@@ -1,4 +1,4 @@
-# KramseSSAS
+# KramseSSAS by QRRV and [HGKarremans](https://github.com/hgkarremans)
 
 ## Overview
 KramseSSAS is a project dedicated to analyzing, transforming, processing, and saving shipping data using SQL Server Analysis Services (SSAS). This repository leverages SSAS cubes to deliver high-performance data processing and analytics capabilities tailored for complex shipping datasets.
