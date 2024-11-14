@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="MSI.KramseODS"
+  DTS:DTSID="{490A3B7B-96C1-43BD-8350-D70848C63205}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=MSI;Initial Catalog=KramseODS;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-Kramse-{490A3B7B-96C1-43BD-8350-D70848C63205}MSI.KramseODS;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

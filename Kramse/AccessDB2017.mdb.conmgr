@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="AccessDB2017 mdb"
+  DTS:DTSID="{34BFA1E9-0714-433E-97DD-EEEB83CA27CE}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=D:\School_Avans\Vakken\Kramse\Project\Kramse\Sources\2017\KramseTPS.mdb;Provider=Microsoft.ACE.OLEDB.16.0;Persist Security Info=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
