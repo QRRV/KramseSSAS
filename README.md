@@ -9,9 +9,8 @@ The project is built using:
 - **SSAS Cubes** to enable fast data retrieval and storage, facilitating efficient querying and multidimensional analysis of large shipping data sets.
 
 ## Cloning
-To install and use KramseSSAS:
 
-1. Clone the repository:
+1. Git clone:
    ```sh
    git clone https://github.com/QRRV/KramseSSAS.git
    ```
